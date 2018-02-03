@@ -1,0 +1,9 @@
+.my-blue-jumbotron {
+    background-color: lightblue;
+    margin-bottom: 0;
+}
+
+.carousel-inner img {
+    width:100%;
+    height:100%;
+}
