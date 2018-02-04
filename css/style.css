@@ -5,7 +5,8 @@
 }
 
 .carousel-inner img {
-    width: 100%;
+    width: 75% !important;
+    margin: auto !important;
     height: 525px;
 }
 
@@ -36,5 +37,5 @@ h2 {
 }
 
 .custom-carousel {
-    background-color: lightblue !important;
+    background-color: #2b2b2b !important;
 }
