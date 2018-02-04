@@ -1,19 +1,34 @@
 .my-blue-jumbotron {
     background-color: lightblue;
     margin-bottom: 0;
+    padding-top: 100px;
 }
 
 .carousel-inner img {
-    width:100%;
-    height:625px;
+    width: 100%;
+    height: 525px;
 }
 
 .custom-navbar-bg {
-    background-color: lightblue !important;
+    background-color: #2b2b2b !important;
 }
 
 h2 {
   font: 400 100px/1.5 'Pacifico', Helvetica, sans-serif;
   color: #2b2b2b;
   text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 7px 7px 0px rgba(0,0,0,0.05);
+}
+
+.custom-brand {
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.custom-info-section {
+    margin-top: 20px;
+    background-color:white;
+}
+
+.custom-carousel {
+    background-color: lightblue !important;
 }
